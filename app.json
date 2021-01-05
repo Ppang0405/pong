@@ -1,0 +1,12 @@
+{
+  "name": "Pong",
+  "displayName": "Pong",
+  "expo": {
+    "name": "Pong",
+    "slug": "Pong",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
